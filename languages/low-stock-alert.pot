@@ -1,0 +1,42 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: LeanCart Low Stock Alert\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "Example site:"
+msgstr ""
+
+msgid "Leave blank to use the admin email."
+msgstr ""
+
+msgid "Notification email"
+msgstr ""
+
+msgid "Product: %s (ID %d)\nStock remaining: %d\nThreshold: %d\n\nTo edit the product: %s"
+msgstr ""
+
+msgid "Send an alert when stock falls below this number."
+msgstr ""
+
+msgid "Settings"
+msgstr ""
+
+msgid "Shortcuts"
+msgstr ""
+
+msgid "This plugin requires WooCommerce to be active."
+msgstr ""
+
+msgid "Threshold quantity"
+msgstr ""
+
+msgid "WooCommerce Settings"
+msgstr ""
+
+msgid "You are not allowed to access this page."
+msgstr ""
+
+msgid "[%s] Low stock: %s"
+msgstr ""
